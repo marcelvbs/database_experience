@@ -10,10 +10,7 @@
  - *Pagamento – Pode ter cadastrado mais de uma forma de pagamento;*
  - *Entrega – Possui status e código de rastreio;*
 <br>
-<br>
  
-**Ainda acrescentei as tabelas "Entregador" e "Veículo" pois entendi que essas informações são cruciais no contexto proposto**
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ícone do HTML" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
